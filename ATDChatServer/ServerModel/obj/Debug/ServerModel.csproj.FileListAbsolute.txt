@@ -1,0 +1,5 @@
+D:\VnIPT Projects\ATDChatServer\ServerModel\bin\Debug\ServerModel.dll
+D:\VnIPT Projects\ATDChatServer\ServerModel\bin\Debug\ServerModel.pdb
+D:\VnIPT Projects\ATDChatServer\ServerModel\obj\Debug\ServerModel.csprojResolveAssemblyReference.cache
+D:\VnIPT Projects\ATDChatServer\ServerModel\obj\Debug\ServerModel.dll
+D:\VnIPT Projects\ATDChatServer\ServerModel\obj\Debug\ServerModel.pdb

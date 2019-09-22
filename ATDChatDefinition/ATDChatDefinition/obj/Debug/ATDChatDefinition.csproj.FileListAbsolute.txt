@@ -1,0 +1,5 @@
+D:\VnIPT Projects\ATDChatDefinition\ATDChatDefinition\bin\Debug\ATDChatDefinition.dll
+D:\VnIPT Projects\ATDChatDefinition\ATDChatDefinition\bin\Debug\ATDChatDefinition.pdb
+D:\VnIPT Projects\ATDChatDefinition\ATDChatDefinition\obj\Debug\ATDChatDefinition.csprojResolveAssemblyReference.cache
+D:\VnIPT Projects\ATDChatDefinition\ATDChatDefinition\obj\Debug\ATDChatDefinition.dll
+D:\VnIPT Projects\ATDChatDefinition\ATDChatDefinition\obj\Debug\ATDChatDefinition.pdb
